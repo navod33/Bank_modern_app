@@ -1,7 +1,9 @@
 import React from 'react'
 
-export const Navar = () => {
+ const Navar = () => {
   return (
     <div>Navar</div>
   )
 }
+ 
+export default Navar;
